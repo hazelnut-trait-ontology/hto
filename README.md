@@ -41,5 +41,5 @@ The Hazelnut Trait Ontology consists of 2247 axioms, 300 classes, 45 object prop
 
 ### Example of use
 
-Hazelnut Trait Ontology is used in several tools of the Open Data in Agriculture Platform whic is available at http://www.opendatainagriculture.com/
+Hazelnut Trait Ontology is used in several tools of the Open Data in Agriculture Platform which is available at http://www.opendatainagriculture.com/
 
