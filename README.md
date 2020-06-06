@@ -23,6 +23,10 @@ http://opendatainagriculture.com/ontologies/hazelnutontology
 
 https://github.com/hazelnut-trait-ontology/hto
 
+### Methodological framework
+
+Ontology Development 101
+
 ### Need
 
 The main purpose of developing Hazelnut Ontology is to share a common vocabulary. On the other hand, Hazelnut Ontology is acknowledged that it is going to help provide an international format to standardize general understanding with respect to hazelnut. Another purpose of creating an ontology regarding hazelnut provides a generally accepted common language for hazelnut. It is a generally complicated process to gather data concerning a specific domain. This ontology is created to help stakeholders while deciding which attributes should be defined within the gathered data as well. Hazelnut Ontology is created to contribute to facilitating data storage, data retrieval, and data exchange in a rapid, reliable, and proper way by publishing accurate metadata with different types of services.
