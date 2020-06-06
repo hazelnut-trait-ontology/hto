@@ -21,7 +21,7 @@ http://opendatainagriculture.com/ontologies/hazelnutontology
 
 ### Ontology repository
 
-https://github.com/sahinaydin/hazelnut-trait-ontology
+https://github.com/hazelnut-trait-ontology/hto
 
 ### Need
 
