@@ -622,6 +622,14 @@
     
 
 
+    <!-- http://www.opendatainagriculture.com/ontologies/hazelnutontology#AtmosphericPressure -->
+
+    <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#AtmosphericPressure">
+        <rdfs:subClassOf rdf:resource="http://www.opendatainagriculture.com/ontologies/hazelnutontology#ClimateOfTheSite"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.opendatainagriculture.com/ontologies/hazelnutontology#Bacteria -->
 
     <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#Bacteria">
@@ -778,6 +786,14 @@
 
     <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#BudShape">
         <rdfs:subClassOf rdf:resource="http://www.opendatainagriculture.com/ontologies/hazelnutontology#BudDescriptor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.opendatainagriculture.com/ontologies/hazelnutontology#CarbonmonoxideConcentration -->
+
+    <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#CarbonmonoxideConcentration">
+        <rdfs:subClassOf rdf:resource="http://www.opendatainagriculture.com/ontologies/hazelnutontology#ClimateOfTheSite"/>
     </owl:Class>
     
 
@@ -2371,6 +2387,14 @@
     
 
 
+    <!-- http://www.opendatainagriculture.com/ontologies/hazelnutontology#NitrogendioxideConcentration -->
+
+    <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#NitrogendioxideConcentration">
+        <rdfs:subClassOf rdf:resource="http://www.opendatainagriculture.com/ontologies/hazelnutontology#ClimateOfTheSite"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.opendatainagriculture.com/ontologies/hazelnutontology#NormalPollen -->
 
     <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#NormalPollen">
@@ -3611,6 +3635,14 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:comment xml:lang="en">Type of sample collected.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.opendatainagriculture.com/ontologies/hazelnutontology#Ultraviolet -->
+
+    <owl:Class rdf:about="http://www.opendatainagriculture.com/ontologies/hazelnutontology#Ultraviolet">
+        <rdfs:subClassOf rdf:resource="http://www.opendatainagriculture.com/ontologies/hazelnutontology#ClimateOfTheSite"/>
     </owl:Class>
     
 
