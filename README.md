@@ -41,7 +41,7 @@ Protégé
 
 ### Ontology metrics
 
-The Hazelnut Trait Ontology consists of 2247 axioms, 300 classes, 45 object properties, 19 data properties, and 371 individuals.
+The Hazelnut Trait Ontology consists of 2255 axioms, 304 classes, 45 object properties, 19 data properties, and 371 individuals.
 
 ### Example of use
 
